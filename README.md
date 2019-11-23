@@ -5,3 +5,4 @@ Python practice folder
 2. Data visualisation
 3. Age calculator
 4. Codingame: The Descent
+5. Analysing mobile app data
