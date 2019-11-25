@@ -1,10 +1,13 @@
 # Python Practice
-Python practice folder
+Python Practice:
 
 1. Printer error challenge
-2. Data visualisation
-3. Age calculator
-4. Codingame: The Descent
-5. Analysing mobile app data
-6. Simple math game
-7. Exploring hacker news posts
+2. Age calculator
+3. Codingame: The Descent
+4. Simple math game
+
+Data Analysis (Python):
+
+1. Data visualisation
+2. Analysing mobile app data
+3. Exploring hacker news posts
