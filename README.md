@@ -1,5 +1,5 @@
-# Python Practice
-Python Practice:
+# Python Projects
+Python Mini-project:
 
 1. Printer error challenge
 2. Age calculator
@@ -11,3 +11,4 @@ Data Analysis (Python):
 1. Data visualisation
 2. Analysing mobile app data
 3. Exploring hacker news posts
+4. Exploring Ebay car sale data
