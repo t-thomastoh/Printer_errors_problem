@@ -12,3 +12,4 @@ Data Analysis (Python):
 2. Analysing mobile app data
 3. Exploring hacker news posts
 4. Exploring Ebay car sale data
+5. Visualizing earnings based on college majors
