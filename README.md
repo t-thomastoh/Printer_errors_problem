@@ -13,3 +13,4 @@ Data Analysis (Python):
 3. Exploring hacker news posts
 4. Exploring Ebay car sale data
 5. Visualizing earnings based on college majors
+6. Guided Project_ Clean And Analyze Employee Exit Surveys
