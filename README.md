@@ -14,3 +14,4 @@ Data Analysis (Python):
 4. Exploring Ebay car sale data
 5. Visualizing earnings based on college majors
 6. Clean And Analyze Employee Exit Surveys
+7. Analyzing NYC High School Data
