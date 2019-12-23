@@ -15,3 +15,4 @@ Data Analysis (Python):
 5. Visualizing earnings based on college majors
 6. Clean And Analyze Employee Exit Surveys
 7. Analyzing NYC High School Data
+8. Star Wars Survey
