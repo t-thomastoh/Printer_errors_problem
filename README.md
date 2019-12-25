@@ -17,3 +17,4 @@ Data Analysis (Python):
 7. Analyzing NYC High School Data
 8. Star Wars Survey
 9. Analyzing CIA factbook data
+10. Answering Business Questions with SQL
