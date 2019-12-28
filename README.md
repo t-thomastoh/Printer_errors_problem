@@ -18,3 +18,4 @@ Data Analysis (Python):
 8. Star Wars Survey
 9. Analyzing CIA factbook data
 10. Answering Business Questions with SQL
+11. Investigating Fandango Movie Ratings
